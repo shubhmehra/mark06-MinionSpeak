@@ -114,23 +114,6 @@ button {
   background-color: white;
 }
 
-/* footer */
-.footer {
-  background-color: var(--primary-color);
-  padding: 2rem 0rem;
-  text-align: center;
-  color: black;
-  border-top-right-radius: 1rem;
-}
-
-.footer .footer-header {
-  font-size: 1.4rem;
-  padding-inline-start: 0px;
-}
-
-.footer-about {
-  font-size: 2rem;
-}
 
 /* spaces */
 #space {
@@ -143,8 +126,4 @@ button {
 
 .padding-small {
   padding-bottom: 1.5rem;
-}
-
-footer {
-  margin-bottom: 0px;
 }
